@@ -4,7 +4,6 @@
 
 ### Projects
 
-
 [World Happiness Report - Case Study 6](/pdf/World Happiness Report Project Kistin Lüpken.pdf)
 <img src="images/ftmlc-modified?raw=true"/>
 <p style="font-size:12px">Analysing the impact of the corona pandemic on ‘happiness’ rankings. The Project was conducted using Python and Tableau and involved: Sourcing data / Exploring Relationships / Supervised Machine Learning: Regression / Unsupervised Machine Learning: Clustering / Time Series Data Analysis</p>
