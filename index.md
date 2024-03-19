@@ -4,16 +4,20 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/pexels-yusuf-habibi-14106347-modified.png?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[GameCo Project - Case Study 1](/pdf/sample_presentation.pdf)
 <img src="images/pexels-lucie-liz-3165335-modified.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Influenza Project - Case Study 2](/pdf/sample_presentation.pdf)
+<img src="images/pexels-cottonbro-studio-3952208-modified.png?raw=true"/>
+
+---
+[Rockbuster Stealth Project - Case Study 3](http://example.com/)
 <img src="images/pexels-koolshooters-6977380-modified.png?raw=true"/>
+
+---
+[Instacart Project - Case Study 4](/sample_page)
+<img src="images/pexels-yusuf-habibi-14106347-modified.png?raw=true"/>
 
 ---
 
