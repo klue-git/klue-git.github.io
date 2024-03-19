@@ -49,7 +49,7 @@ Anti-money laundering projects at a global bank
 ---
 Analysing global video game sales
 
-<img src="pexels-lucie-liz-3165335-modified(1).png?raw=true" width="200" height="200"/>
+<img src="images/pexels-lucie-liz-3165335-modified(1).png?raw=true" width="200" height="200"/>
 <p style="font-size:12px">Perform a descriptive analysis of a video game data set answer key questions that will inform GameCo’s development plans. Project was conducted in Excel and involved: Grouping Data / Summarizing Data / Descriptive Analysis / Visualising & Presenting Results </p>
 
 ---
