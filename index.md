@@ -26,7 +26,7 @@ Marketing Strategy for an online grocery store
 
 Answering business questions for an online video rental company
 
-<img src="pexels-koolshooters-6977380-modified(1).png?raw=true" width="200" height="200"/>
+<img src="images/pexels-koolshooters-6977380-modified(1).png?raw=true" width="200" height="200"/>
 <p style="font-size:12px">The Rockbuster Stealth Management Board has asked a series of business questions that need data-driven answers they can use for their 2020 company strategy. The data needs to be visualised in an easy-to-consume manner. The Project was conducted using SQL and Tableau and involved: Relational databases / Database querying / Filtering / Cleaning & Summarising / Joining tables / Subqueries / CTE</p>
 
 ---
@@ -42,7 +42,7 @@ Preparing for influenza season in the US
 
 Anti-money laundering projects at a global bank
 
-<img src="images/pexels-karolina-grabowska-4386476-modified.png?raw=true" width="200" height="200"/>
+<img src="images/pexels-lucie-liz-3165335-modified(1).png?raw=true" width="200" height="200"/>
 <p style="font-size:12px">Provide analytical support to a variety of data-related projects that help the bank assess client risk and transaction risk. Help building and optimising models that assist the bank in running their compliance program more efficiently. Discussion of the following topics: Big data / Data ethics / Data mining / Predictive analysis & forecasting</p>
 [GameCo Project](/pdf/GameCo Project Kistin Lüpken.pdf)
 
