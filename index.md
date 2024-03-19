@@ -4,7 +4,7 @@
 
 ### Projects
 
-[World Happiness Report](/pdf/World Happiness Report Project Kistin Lüpken.pdf)
+[World Happiness Report](https://public.tableau.com/app/profile/kristin.l.pken/viz/WorldHappinessReport-CoronaPandemicImpact/WHRStoryboard)
 
 Analysing the impact of the corona pandemic on ‘happiness’ rankings
 
@@ -38,7 +38,7 @@ Anti-money laundering projects at a global bank
 <p style="font-size:12px">Provide analytical support to a variety of data-related projects that help the bank assess client risk and transaction risk. Help building and optimising models that assist the bank in running their compliance program more efficiently. Discussion of the following topics: Big data / Data ethics / Data mining / Predictive analysis & forecasting</p>
 
 ---
-[Influenza Project - Case Study 2](/pdf/Influenza Project Kistin Lüpken.pdf)
+[Influenza Project - Case Study 2](https://public.tableau.com/app/profile/kristin.l.pken/viz/PreparingforInfluenzaSeason-Storyboard/InfluenzaStoryboard)
 
 Preparing for influenza season in the US
 
