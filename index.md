@@ -24,7 +24,7 @@
 ---
 [Rockbuster Stealth Project - Case Study 3](/pdf/Rockbuster Stealth Project Kistin Lüpken.pdf)
 
-<img src="images/pexels-koolshooters-6977380-modified.png?raw=true" width="200" height="200"/>
+<img src="pexels-koolshooters-6977380-modified(1).png?raw=true" width="200" height="200"/>
 <p style="font-size:12px">Answering business questions for an online video rental company. The Project was conducted using SQL and Tableau and involved: Relational databases / Database querying / Filtering / Cleaning & Summarising / Joining tables / Subqueries / CTE</p>
 
 ---
@@ -36,7 +36,7 @@
 ---
 [GameCo Project - Case Study 1](/pdf/GameCo Project Kistin Lüpken.pdf)
 
-<img src="images/pexels-lucie-liz-3165335-modified.png?raw=true" width="200" height="200"/>
+<img src="pexels-lucie-liz-3165335-modified(1).png?raw=true" width="200" height="200"/>
 <p style="font-size:12px">Analysing global video game sales. Project was conducted in Excel and involved: Grouping Data / Summarizing Data / Descriptive Analysis / Visualising & Presenting Results </p>
 
 ---
