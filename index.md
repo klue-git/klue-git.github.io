@@ -5,7 +5,8 @@
 ### Projects
 
 [GameCo Project - Case Study 1](/pdf/sample_presentation.pdf)
-<img src="images/pexels-lucie-liz-3165335-modified.png?raw=true"/>
+<img src="images/pexels-lucie-liz-3165335-modified.png"/>
+<p style="font-size:12px">Analysing global video game sales. Project was conducted in Excel and involved: Grouping Data / Summarizing Data / Descriptive Analysis / Visualising & Presenting Results </p>
 
 ---
 [Influenza Project - Case Study 2](/pdf/sample_presentation.pdf)
