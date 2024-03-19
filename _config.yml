@@ -1,10 +1,10 @@
 title: Kristin Lüpken # your name (or website title) here
-logo: "/images/CV Pic 3-modified.png?raw=true" # your photo (or logo) here
+logo: "images/CV Pic 3-modified.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>Business Strategy & Marketing Analytics<br>
-  Second description 
-  <br>My competency lies in understanding and driving businesses from a marketing perspective. I'm good at bringing direction, structure and clarity to complex matters. I like to work in teams and organisation that value cooperation, humour and authenticity and gives me the flexibility to excell at my job<br>
+  Business Strategy & Marketing Analytics
+  <br><br>
+  My competency lies in understanding and driving businesses from a marketing perspective. I'm good at bringing direction, structure and clarity to complex matters. I like to work in teams and organisation that value cooperation, humour and authenticity and gives me the flexibility to excell at my job.
+  <br><br>
   <a href="https://www.linkedin.com/in/kristin-l%C3%BCpken-b4149984/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
