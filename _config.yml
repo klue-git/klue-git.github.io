@@ -1,11 +1,11 @@
 title: Kristin Lüpken # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/V Pic 3-modified.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Business Strategy & Marketing Analytics<br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>My competency lies in understanding and driving businesses from a marketing perspective. I'm good at bringing direction, structure and clarity to complex matters. I like to work in teams and organisation that value cooperation, humour and authenticity and gives me the flexibility to excell at my job<br>
+  <a href="https://www.linkedin.com/in/kristin-l%C3%BCpken-b4149984/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
