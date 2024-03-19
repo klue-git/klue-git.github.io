@@ -14,14 +14,6 @@ GDP per capita, social support, healthy life expectancy, freedom, generosity, an
 The Project was conducted using Python and Tableau and involved: Sourcing data / Exploring Relationships / Supervised Machine Learning: Regression / Unsupervised Machine Learning: Clustering / Time Series Data Analysis</p>
 
 ---
-[Data Ethics & Applied Analytics](/pdf/Data Ethics & Applied Analytics Project Kistin Lüpken.pdf)
-
-Anti-money laundering projects at a global bank
-
-<img src="images/pexels-karolina-grabowska-4386476-modified.png?raw=true" width="200" height="200"/>
-<p style="font-size:12px">Provide analytical support to a variety of data-related projects that help the bank assess client risk and transaction risk. Help building and optimising models that assist the bank in running their compliance program more efficiently. Discussion of the following topics: Big data / Data ethics / Data mining / Predictive analysis & forecasting</p>
-
----
 [Instacart Project](/pdf/Instacart Project Kistin Lüpken.pdf)
 
 Marketing Strategy for an online grocery store
@@ -46,8 +38,15 @@ Preparing for influenza season in the US
 <p style="font-size:12px">A medical staffing agency provides this temporary staff. Determine when to send staff, and how many, to each state. The Project was conducted using Excel and Tableau and involved: Translating business requirements / Data cleaning, integration & transformation / Statistical Hypothesis testing / Visual analysis / Forecasting / Storytelling</p>
 
 ---
+[Data Ethics & Applied Analytics](/pdf/Data Ethics & Applied Analytics Project Kistin Lüpken.pdf)
+
+Anti-money laundering projects at a global bank
+
+<img src="images/pexels-karolina-grabowska-4386476-modified.png?raw=true" width="200" height="200"/>
+<p style="font-size:12px">Provide analytical support to a variety of data-related projects that help the bank assess client risk and transaction risk. Help building and optimising models that assist the bank in running their compliance program more efficiently. Discussion of the following topics: Big data / Data ethics / Data mining / Predictive analysis & forecasting</p>
 [GameCo Project](/pdf/GameCo Project Kistin Lüpken.pdf)
 
+---
 Analysing global video game sales
 
 <img src="pexels-lucie-liz-3165335-modified(1).png?raw=true" width="200" height="200"/>
