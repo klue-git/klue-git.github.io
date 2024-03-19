@@ -40,15 +40,6 @@
 <p style="font-size:12px">Analysing global video game sales. Project was conducted in Excel and involved: Grouping Data / Summarizing Data / Descriptive Analysis / Visualising & Presenting Results </p>
 
 ---
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](/sample_page)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
