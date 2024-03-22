@@ -14,7 +14,7 @@ GDP per capita, social support, healthy life expectancy, freedom, generosity, an
 The Project was conducted using Python and Tableau and involved: Sourcing data / Exploring Relationships / Supervised Machine Learning: Regression / Unsupervised Machine Learning: Clustering / Time Series Data Analysis</p>
 
 ---
-[Instacart Project](/pdf/Instacart Project Kistin Lüpken.pdf)
+[Instacart Project](/pdf/Instacart Project Kristin Lüpken.pdf)
 
 Marketing Strategy for an online grocery store
 
@@ -22,7 +22,7 @@ Marketing Strategy for an online grocery store
 <p style="font-size:12px">The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They’re considering a targeted marketing strategy to see whether they have an effect on the sale of their products. The Project was conducted using Python and involved: Data wrangling / Data merging / Deriving variables / Grouping data / Aggregating data / Reporting in Excel / Population flows</p>
 
 ---
-[Rockbuster Stealth Project](/pdf/Rockbuster Stealth Project Kistin Lüpken.pdf)
+[Rockbuster Stealth Project](/pdf/Rockbuster Stealth Project Kristin Lüpken.pdf)
 
 Answering business questions for an online video rental company
 
@@ -30,7 +30,7 @@ Answering business questions for an online video rental company
 <p style="font-size:12px">The Rockbuster Stealth Management Board has asked a series of business questions that need data-driven answers they can use for their 2020 company strategy. The data needs to be visualised in an easy-to-consume manner. The Project was conducted using SQL and Tableau and involved: Relational databases / Database querying / Filtering / Cleaning & Summarising / Joining tables / Subqueries / CTE</p>
 
 ---
-[Data Ethics & Applied Analytics](/pdf/Data Ethics & Applied Analytics Project Kistin Lüpken.pdf)
+[Data Ethics & Applied Analytics](/pdf/Data Ethics & Applied Analytics Project Kristin Lüpken.pdf)
 
 Anti-money laundering projects at a global bank
 
@@ -46,7 +46,7 @@ Preparing for influenza season in the US
 <p style="font-size:12px">A medical staffing agency provides this temporary staff. Determine when to send staff, and how many, to each state. The Project was conducted using Excel and Tableau and involved: Translating business requirements / Data cleaning, integration & transformation / Statistical Hypothesis testing / Visual analysis / Forecasting / Storytelling</p>
 
 ---
-[GameCo Project](/pdf/GameCo Project Kistin Lüpken.pdf)
+[GameCo Project](/pdf/GameCo Project Kristin Lüpken.pdf)
 
 Analysing global video game sales
 
