@@ -13,6 +13,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/klue-git">GitHub Repo</a> 
   <br>
   <a href="pdf/Data Analytics Portfolio Kistin Lüpken-1.pdf">Project Portfolio PDF</a> 
+  <br>
+
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
