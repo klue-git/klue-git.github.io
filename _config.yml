@@ -6,6 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   My competency lies in understanding and driving businesses from a marketing perspective. I'm good at bringing direction, structure and clarity to complex matters. I like to work in teams and organisations that value cooperation, humour and authenticity and give me the flexibility to excel at my job.
   <br><br>
+  <a href="mailto:kristinluepken@yahoo.de">Email Me</a>
+  <br>
   <a href="https://www.linkedin.com/in/kristin-l%C3%BCpken-b4149984/">LinkedIn Profile</a> 
   <br>
   <a href="https://public.tableau.com/app/profile/kristin.l.pken/vizzes">Public Tableau</a> 
@@ -15,13 +17,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="pdf/Data Analytics Portfolio Kristin Lüpken.pdf">Data Analytics Project Portfolio PDF</a> 
   <br>
   <a href="pdf/Product Manager Portfolio Kristin Lüpken.pdf">Product Management Portfolio PDF</a> 
-  <br>
-  <a href="mailto:kristinluepken@yahoo.de">Email Me</a>
+
+
   
-
-
   <br><br>
-
+  
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
