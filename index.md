@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Tripdot Project](/pdf/Product Management Portfolio Kristin Lüpken.pdf)
+[Tripdot Project](/pdf/Product Manager Portfolio Kristin Lüpken.pdf)
 
 Product Management for a Digital Travel Platform
 
