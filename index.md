@@ -4,6 +4,17 @@
 
 ### Projects
 
+[Tripdot Project](/pdf/Product Management Portfolio Kristin Lüpken.pdf)
+
+Product Management for a Digital Travel Platform
+
+<img src="images/pexels-fotios-photos-1546328-modified(1).png?raw=true" width="200" height="200"/>
+<p style="font-size:12px">As a product manager, your task is to create a product concept for Tripdot and develop it ready for the market using agile methods and tools. The product is a digital platform for group travel with offers for sleeping, eating and experiences (activities), which is specifically designed for groups (from 5 people and with unlimited group sizes).</p>
+
+---
+
+### Projects
+
 [World Happiness Report](https://public.tableau.com/app/profile/kristin.l.pken/viz/WorldHappinessReport-CoronaPandemicImpact/WHRStoryboard)
 
 Analysing the impact of the corona pandemic on ‘happiness’ rankings
